@@ -7,7 +7,7 @@
 - Austin
 - Craig
 - Linda
-- Brian
+- Brian (organizer)
 
 ##### What did we do?
 1. Did a recap on last week's lesson.

@@ -9,7 +9,7 @@
 - Tomás
 - Craig
 - Austin
-- Brian
+- Brian (organizer)
 
 ##### What did we do?
 1. Introduced CodeClub
