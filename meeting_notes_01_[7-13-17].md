@@ -4,12 +4,12 @@
 - 1935 Addison St, Berkeley, CA, us
 
 ##### Attendees:
-- Sharon
-- Chris
-- Tomás
-- Craig
-- Austin
-- Brian (organizer)
+- Sharon (First Time)
+- Chris (First Time)
+- Tomás (First Time)
+- Craig (First Time)
+- Austin (First Time)
+- Brian (organizer) (First Time)
 
 ##### What did we do?
 1. Introduced CodeClub

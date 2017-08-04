@@ -6,7 +6,7 @@
 ##### Attendees:
 - Austin
 - Craig
-- Linda
+- Linda (First Time)
 - Brian (organizer)
 
 ##### What did we do?

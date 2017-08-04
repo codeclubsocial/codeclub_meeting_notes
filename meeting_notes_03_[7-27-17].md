@@ -6,8 +6,8 @@
 ##### Attendees:
 - Austin
 - Craig
-- Brandon
-- Reuben
+- Brandon (First Time)
+- Reuben (First Time)
 - Brian (organizer)
 
 ##### What did we do?
