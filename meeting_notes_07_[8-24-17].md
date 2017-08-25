@@ -19,6 +19,8 @@ Baijun and Elliot joined us for the first time, it was good to meet them both.
 The group discussed the ongoing development to the website and the finer details
 of the features we are working to implement. While building an internal chat and IM
 system would be nice, it is not seen as a high priority and will be postponed for the time being.
+JUSTIN HOFFMAN of [Code Berkeley](http://codeberkeley.com/) stopped by the table to say hi and to invite us to connect with them. Classes started this week and cover node and express. They're also putting together workshops and stuff.
+
 
 ##### Homework for Next Week
 - Implement user authentication.
