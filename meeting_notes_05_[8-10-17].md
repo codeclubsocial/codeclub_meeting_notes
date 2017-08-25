@@ -21,7 +21,10 @@ It was great to see the new faces. Learning node is a little slow-going, but pro
 Craig brought his projector, which helped seeing his screen. I'm realizing we need to have
 a written getting-started document that gets people setup on node, atom and git.
 
-##### Homework
+##### Homework for Next Week
 - Continue learning JavaScript, Node.js & Express.
 - Get dev site pushed to a live heroku deployment.
 - Write a getting-started document that gets people setup on node, atom and git.
+
+##### Homework Completed this Past Week
+- Wrote a [getting-started Guide](https://codeclubsocial.github.io/) and published it on github pages.
