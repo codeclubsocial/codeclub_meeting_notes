@@ -20,10 +20,10 @@ None.
 - Make all forms Post to Database (+1 week past due)
 
 ##### Completed this Past week
-- Implement user authentication.
-- Contact form transmits to email address
-- SMTP server running
-- Forum main page redesign
-- Landing Page redesign
-- Rocket.Chat server Setup
-- About Page developed
+- Implement user authentication. (craig)
+- Landing Page redesign (zaki)
+- Forum main page redesign (zaki)
+- Rocket.Chat server Setup (brian)
+- About Page developed (brian)
+- SMTP server running (brian)
+- Contact form transmits to email address (brian)
