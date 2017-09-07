@@ -37,13 +37,15 @@ Getting the RSVP button to work
 ### Bucket List for Next Week
 ...
 
-##### Accomplishments this Past week
-  ```let KEY {
+##### Got done this Past week
+  ```
+  let KEY {
     ✊ : "Fist-Bump",
     👍 : "made progress",
     ⟡ : "no progress",
     👎 : "Something went terribly wrong!"
-  };```
+  };
+  ```
 
 - Closed a lot of issues and did a lot of better defining how we will parse the workload (👍)
 - Craig further implemented user authentication (👍)
