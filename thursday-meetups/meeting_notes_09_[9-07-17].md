@@ -1,13 +1,11 @@
 ## CodeClub Meeting #9
-#### Thursday, August 31st, 2017
+#### Thursday, September 7th, 2017
 ##### Location: 85C Bakery Cafe - Berkeley
 - 21 Shattuck Ave, Berkeley, CA 94704
 
 ### Attendees:
 - Craig
 - Austin
-- Jonathan (First Time)
-- Vladimir (First Time)
 - Brian (organizer)
 
 ### Topics of Discussion
@@ -22,20 +20,25 @@ Getting the RSVP button to work
 
 > __[ Brian ]__ yes I would like a separate messaging system for the website itself aside from rocketchat. it has the added benefit of sending notifications, mail within the website Etc. this is something we can also discuss tomorrow at the meeting
 
-### [Stats past 7 days](https://github.com/codeclubsocial/codeclub_website_dev/pulse) *(as of 9/6/17)*
+### [Stats past 7 days](https://github.com/codeclubsocial/codeclub_website_dev/pulse)
 - 7 issues Closed
 - 6 issues created
-- 3 unresolved conversations
+- 4 unresolved conversations
 
 
 ### What did we discuss?
-...
+- Tried to figure out how to authenticate users via the meetup api.
+- Craig gave a code review of his implementation of user signup and authentication.
 
 ### Additional Thoughts:
 ...
 
 ### Bucket List for Next Week
-...
+1. Austin: get Meetup api working
+2. Brian: get markdown rich text editor working
+3. Brian: Setup domain with SSL
+4. Craig: mongo/mongoose deprecations
+5. Craig: field validations
 
 ##### Got done this Past week
   ```
@@ -48,6 +51,6 @@ Getting the RSVP button to work
   ```
 
 - Closed a lot of issues and did a lot of better defining how we will parse the workload (👍)
-- Craig further implemented user authentication (👍)
+- Craig further implemented user authentication (✊)
 - Rich Text Editor (👍)
 - Make all forms Post to Database (⟡)
