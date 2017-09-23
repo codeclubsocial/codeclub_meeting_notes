@@ -39,7 +39,7 @@ We discussed a variety of topics. One being the advantage of css grids over boot
 - Yogesh and Austin are both chemical engineers
 
 ### Bucket List for Next Week
-- Forward all traffic through Https domain codeclubsocial/codeclub_website_dev#32 (Craig)
+- Forward all traffic through Https domain [#32](codeclubsocial/codeclub_website_dev#32) (Craig)
 - Finalize signup page #28 #48 #49
 - Create user profiles #50
 - Add commenting to forum posts #55
