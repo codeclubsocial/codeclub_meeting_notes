@@ -22,7 +22,7 @@
 - Idea: what if one feature's code handled a multitude of features, e.g.: the forum, blog, news, wiki, and meeting notes. All used the same code base, but the site used a tagging system (under the hood) to determine how items were displayed.
 
 3. Next Project?
-  - Predictive Dialer
+  - ...
 
 ### [Stats past 7 days](https://github.com/codeclubsocial/codeclub_website_dev/pulse)
 - 8 issues Closed
