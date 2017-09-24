@@ -40,9 +40,9 @@ We discussed a variety of topics. One being the advantage of css grids over boot
 
 ### Bucket List for Next Week
 - Forward all traffic through Https domain [#32](https://github.com/codeclubsocial/codeclub_website_dev/issues/32) (Craig)
-- Finalize signup page #28 #48 #49
-- Create user profiles #50
-- Add commenting to forum posts #55
+- Finalize signup page [#28](https://github.com/codeclubsocial/codeclub_website_dev/issues/28) [#48](https://github.com/codeclubsocial/codeclub_website_dev/issues/48) [#49](https://github.com/codeclubsocial/codeclub_website_dev/issues/49)
+- Create user profiles [#50](https://github.com/codeclubsocial/codeclub_website_dev/issues/50)
+- Add commenting to forum posts [#55](https://github.com/codeclubsocial/codeclub_website_dev/issues/55)
 
 ##### Got done this Past week
 - Form field validation (Craig) 👍
