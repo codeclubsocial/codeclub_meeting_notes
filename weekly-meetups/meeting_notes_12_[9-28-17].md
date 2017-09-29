@@ -10,7 +10,7 @@
 - Brian (organizer)
 
 ### Topics of Discussion
--
+- Do you prefer issues assigned to you or would you rather do whatever whenever?
 
 ### Next Project?
   - member pages
