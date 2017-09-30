@@ -6,10 +6,11 @@
 ### Attendees:
 - Craig
 - Austin
-- Zaki
+- Jennie Snider (First Time)
+- Tran Nguyen (First Time)
 - Brian (organizer)
 
-### Topics of Discussion
+### Topics to Discuss
 - Do you prefer issues assigned to you or would you rather do whatever whenever?
 
 ### Next Project?
@@ -23,13 +24,13 @@
 
 
 ### What did we discuss?
-We discussed a variety of topics. One being the advantage of css grids over bootstrap layouts.
+Jennie and Tran joined us for the first time. Austin showed us his bio sim he built with react. Helped Tran determine which language she should focus on (Python) and pointed her towards some study resources.
 
 ### Additional Thoughts:
 - ...
 
 ### Bucket List for Next Week
-- ...
+- Finalize signup page [#28](https://github.com/codeclubsocial/codeclub_website_dev/issues/28) [#48](https://github.com/codeclubsocial/codeclub_website_dev/issues/48) [#49](https://github.com/codeclubsocial/codeclub_website_dev/issues/49)
 
 ##### Got done this Past week
 - Forward all traffic through Https domain [#32](https://github.com/codeclubsocial/codeclub_website_dev/issues/32) (Craig) 👍
